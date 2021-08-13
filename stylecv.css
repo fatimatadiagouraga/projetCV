@@ -1,0 +1,29 @@
+#tof{
+	width:10%;
+	height:10%;
+}
+#flex {
+	display: flex;
+	flex-direction:column;
+	justify-content:space-between; 
+
+}
+#h1 {
+ 	
+ 	float: right;
+ 	margin-right: 60%;
+ 	margin-top: 5%;
+}
+#f1{
+	background-color:white;
+}
+#f2{
+	background-color: #D5EEBF;
+}
+#f3{
+	background-color:white;
+}
+body{
+	font-weight: bold;
+	background-color: #E7C9FA;
+}
